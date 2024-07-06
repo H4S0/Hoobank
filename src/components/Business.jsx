@@ -1,7 +1,3 @@
-import React from "react";
-
-const Business = () => {
-  return <div></div>;
-};
-
-export default Business;
+import styles from "../style";
+import Button from "./Button";
+import { features } from "../data";
